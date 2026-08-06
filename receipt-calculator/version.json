@@ -1,5 +1,5 @@
 {
-  "versionCode": 43,
+  "versionCode": 45,
   "versionName": "0.3.24",
   "apkUrl": "https://security154-max.github.io/.github.io/receipt-calculator/receipt-calculator-v0.3.24-category-filter-debug.apk",
   "releaseNotes": "แก้ไขการจัดคอลัมน์ยอดบนใบเสร็จเมื่อราคาสินค้าเป็นหลักหมื่นขึ้นไป"
