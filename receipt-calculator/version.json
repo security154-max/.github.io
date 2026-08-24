@@ -1,6 +1,6 @@
 {
-  "versionCode": 46,
-  "versionName": "0.3.25",
-  "apkUrl": "https://security154-max.github.io/.github.io/receipt-calculator/receipt-calculator-v0.3.25-category-filter-persist-debug.apk",
-  "releaseNotes": "เพิ่มการจดจำ filter หมวดสินค้า และเพิ่มปุ่ม filter ในหน้า Settings > ชื่อร้านและหมวดสินค้า"
+  "versionCode": 51,
+  "versionName": "0.3.30",
+  "apkUrl": "https://security154-max.github.io/.github.io/receipt-calculator/receipt-calculator-v0.3.30-payment-dialog-layout-fix-debug.apk",
+  "releaseNotes": "แก้ปัญหาแป้นตัวเลขยืดเมื่อเปิดหน้าต่างรับเงิน และปรับการทำงานร่วมกับคีย์บอร์ด"
 }
