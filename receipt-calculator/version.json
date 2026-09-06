@@ -1,6 +1,6 @@
 {
-  "versionCode": 51,
-  "versionName": "0.3.30",
-  "apkUrl": "https://security154-max.github.io/.github.io/receipt-calculator/receipt-calculator-v0.3.30-payment-dialog-layout-fix-debug.apk",
-  "releaseNotes": "แก้ปัญหาแป้นตัวเลขยืดเมื่อเปิดหน้าต่างรับเงิน และปรับการทำงานร่วมกับคีย์บอร์ด"
+  "versionCode": 53,
+  "versionName": "0.3.32",
+  "apkUrl": "https://security154-max.github.io/.github.io/receipt-calculator/receipt-calculator-v0.3.32-category-pink-text-debug.apk",
+  "releaseNotes": "เปลี่ยนสีข้อความหมวดสินค้าที่เลือกเป็นสีชมพูเข้ม และปรับ Layout แนวนอนให้ใบเสร็จอยู่ด้านซ้าย"
 }
