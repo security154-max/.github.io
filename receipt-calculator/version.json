@@ -1,6 +1,8 @@
 {
-  "versionCode": 53,
-  "versionName": "0.3.32",
-  "apkUrl": "https://security154-max.github.io/.github.io/receipt-calculator/receipt-calculator-v0.3.32-category-pink-text-debug.apk",
-  "releaseNotes": "เปลี่ยนสีข้อความหมวดสินค้าที่เลือกเป็นสีชมพูเข้ม และปรับ Layout แนวนอนให้ใบเสร็จอยู่ด้านซ้าย"
+  "versionCode": 56,
+  "versionName": "0.3.35",
+  "apkUrl": "https://security154-max.github.io/.github.io/receipt-calculator/receipt-calculator-v0.3.35-html-catalog-import-debug.apk",
+  "releaseNotes": "เพิ่มการนำเข้าไฟล์ HTM/HTML สำหรับอัปเดตฐานข้อมูลสินค้า",
+  "sha256": "EB3AD6B208D95A35D3D59AE2C4FEF6208840F51ADD027E471EF13907D4FFCD08",
+  "fileSize": 2675224
 }
